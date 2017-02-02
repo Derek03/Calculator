@@ -1,0 +1,17 @@
+.fullCellWidth {
+    width:98%;
+}
+
+.equalCell {
+    width: 20%;
+}
+
+.roundCorner {
+    border-radius: 25px;
+}
+
+.calc {
+    border: 2px solid grey;
+    background-color: grey;
+    padding: 30px;
+}
